@@ -3,14 +3,18 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.pedrorfc/)
 
-![JoaoCOD2 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocod2&show_icons=true&theme=dracula)
 
-## Tecnologias 🧑‍💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocod2&size_weight=0.5&count_weight=0.5)
+
+## Tecnologias em apredizado🧑‍💻
 <div style="display: inline_block"><br/>
   <img alt = "html" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img alt = "CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img alt = "JS" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img alt = "Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
+</div><br/>
 
+Cursando TI no colegio Ulbra e buscando evoluir diariamente na programação.
 
+## Contato: 
+### Email: joao.pedrorfc23@gmail.com
